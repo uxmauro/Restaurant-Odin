@@ -9,4 +9,4 @@
 <br>
 
  Library for the Odin Project
-[Preview](https://uxmauro.com/Restaurant-Odin) 🍕👀
+[Preview](https://uxmauro.github.io/Restaurant-Odin) 🍕👀
